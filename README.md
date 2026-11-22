@@ -33,13 +33,7 @@
 1. فك ضغط ملف التطبيق بالكامل.
 2. شغّل `fawateery_offline.exe` من مجلد الإصدار.
 
-## 🛠️ التقنيات المستخدمة | Built With
 
-- Flutter
-- Dart
-- SQLite
-- Android
-- Windows
 
 ## 🔒 الخصوصية والبيانات | Privacy & Data
 
